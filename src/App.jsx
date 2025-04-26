@@ -4,7 +4,7 @@ import Product from "./Product";
 
 function App() {
   return (
-    <div>
+    <div style={{ display: "flex" }}>
       <Product />
       <br></br>
       <Addproduct />
